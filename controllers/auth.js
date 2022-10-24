@@ -26,8 +26,7 @@ exports.auth_signup_post = (req, res) => {
 
     user.save()
     .then(()=> {
-        console.log(user)
-        res.redirect("/")
+        res.send("Successfully created new user")
     })
     .catch((err)=> {
         console.log(err);
