@@ -53,6 +53,7 @@ exports.user_pokegotchi_load = (req, res) => {
             newPokegotchi.attacks.push(newAttack)
         })
         console.log(newPokegotchi.attacks)
+        
     // Add attack Save here 
                 // Pokegotchi.findOne({}, {}, { sort: { 'createdAt' : -1 } }, function(err, pokegotchiDoc) {
                 //     //  console.log(pokegotchiDoc._id);
