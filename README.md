@@ -13,6 +13,26 @@ Our project can be viewed by clicking this link [https://project04pokegotchi.her
 ## Technologies Used:
 
 I spent the two weeks prior to creating the project learning React which together with our previous experience of using MongoDB/Mongoose, Express and Node allowed us to create a MERN stack application.
+
+The complete list of technologies used is:
+
+### Frontend:
+- Axios
+- JWT Authentication
+- MUI Styling
+- React Library: JSX, CSS & JavaScript
+- React Router DOM
+
+### Backend:
+- Atlas hosted MongoDB Database & MongoDB Compass GUI
+- Axios
+- bcrypt
+- body-parser
+- Express
+- JavaScript
+- JSON Web Token
+- jQuery
+- Node.js 
 #
 
 ## Brief:
