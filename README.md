@@ -39,6 +39,8 @@ The brief for the project stipulated the below:
 
 ## Planning:
 
+As the General Assembly course was entirely remote we communicated exclusively through Zoom and Slack. We spent all working day on Zoom together and on occasion remained on Zoom into the evening. When Zoom wasn’t available or when all 3 of us weren’t present (for example on the weekend) we provided updates and solutions via our group chat on Slack.
+
 Harry explained that during a piece of Homework for the course he had the idea of creating a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) App; essentially a virtual pet you can interact with. The piece of Homework in question was to recreate a simple Pokemon battle game: ​​[https://pokemonbattle.alexanderghose.repl.co/](https://pokemonbattle.alexanderghose.repl.co/)
 
 We all liked Harry's idea and felt it was achievable given the brief and the timeframe provided; to such an extent we didn't really discuss any other ideas.
