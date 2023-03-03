@@ -7,7 +7,7 @@ This was my fourth and final project for the Software Engineering Immersive cour
 
 ## Deployment link:
 
-Our project can be viewed by clicking this link [https://project04pokegotchi.herokuapp.com/](https://project04pokegotchi.herokuapp.com/)
+Our project can be viewed [here](bit.ly/Pokegotchi).
 #
 
 ## Technologies Used:
